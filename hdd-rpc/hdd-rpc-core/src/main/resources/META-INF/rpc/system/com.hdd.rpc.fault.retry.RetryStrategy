@@ -1,0 +1,2 @@
+no=com.hdd.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.hdd.rpc.fault.retry.FixedIntervalRetryStrategy

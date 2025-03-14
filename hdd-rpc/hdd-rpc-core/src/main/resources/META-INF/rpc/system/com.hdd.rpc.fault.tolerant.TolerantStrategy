@@ -1,0 +1,4 @@
+failBack=com.hdd.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.hdd.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.hdd.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.hdd.rpc.fault.tolerant.FailSafeTolerantStrategy
